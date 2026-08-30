@@ -41,7 +41,7 @@ To connect to Gmail, you need to create OAuth 2.0 credentials in the Google Clou
 
 ## Step 3: Environment Variables
 
-Create a file named `.env.local` in the root of the project directory (`d:\VS code program\project_nextwave`) and add the following values:
+Create a file named `.env.local` in the root of the project directory (``) and add the following values:
 
 ```env
 # Google OAuth 2.0
@@ -58,7 +58,7 @@ GEMINI_API_KEY="your_gemini_api_key"
 
 ## Step 4: Installation
 
-Open a terminal in the project root directory (`d:\VS code program\project_nextwave`) and run:
+Open a terminal in the project root directory (``) and run:
 
 ```bash
 npm install
